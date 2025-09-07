@@ -1,3 +1,6 @@
+# ISNT MINE ITS FROM https://github.com/CptnCat
+
+
 # ðŸ¤– Discord
 If you need assistance with the script, join my discord and I will help you. Please report any bugs on my discord.
 [Discord](https://discord.gg/wPCTtQP7UT)
